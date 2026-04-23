@@ -1,10 +1,4 @@
 # PolyCoder-Py2Java-v1.0
-Para que seu repositório no GitHub se destaque e mostre todo o potencial técnico que você construiu com **Leonardo da Silva Melo**, aqui está um modelo de `README.md` completo, estruturado e com um toque de autoridade técnica.
-
------
-
-### Sugestão de Conteúdo para o `README.md`
-
 ````markdown
 # 🚀 PolyCoder: Python-to-Java Multi-Agent Transpiler
 
