@@ -77,6 +77,6 @@ Este projeto faz parte do ecossistema de soluções desenvolvidas por **Leonardo
 
 ### Outros Projetos de Destaque:
 
-  * **[Assistente\_IANA](https://www.google.com/search?q=https://github.com/seu-user/Assistente_IANA):** Estudo aprofundado sobre Agentes de IA e fluxos de trabalho autônomos.
+  * **[Assistente\_IANA](https://www.google.com/search?q=https://github.com/leonsk5/Assistente_iANA):** Estudo aprofundado sobre Agentes de IA e fluxos de trabalho autônomos.
   * **[Portifolio26](https://www.google.com/search?q=https://github.com/seu-user/portifolio26):** Showcase de tecnologias web e design focado em UX.
   * **[Estudos-Algoritmos-SUPERVISIONADOS](https://www.google.com/search?q=https://github.com/seu-user/Estudos-Algoritmos-SUPERVISIONADOS):** Pesquisa e implementação dos pilares de Machine Learning Supervisionado.
